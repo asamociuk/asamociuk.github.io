@@ -1,0 +1,8 @@
+- high time synchronization through Precision Time Protocol (IEEE1588) - 90ns
+- low cost - parts, enclosure, PCB manufacturing - 150 ojro
+- powering external or Pover over Ethernet (IEEE 802.3af)
+- Ethernet through UTP cable or fibre connection
+- universal system with exchangeable measure modules
+- easy to extend and develop separately 
+- asymmetric, 2-core microcontroller - measurement independent from main core load
+- real-time system (FreeRTOS) on Cortex-M4 core

@@ -1,0 +1,6 @@
+- Segway-like robot based on NXT Mindstorms set
+- PID controller developed in Matlab Simulink
+- C implementation - soft start, friction compensation, signal saturation, fall detection
+- sensors calibration - accelerometer and gyroscope
+- I2C and USART connection
+- Wireless 868MHz communication with eZ430-Chronos from Texas Instruments

@@ -1,0 +1,5 @@
+- drive up to 4 BLDC 0.5kW motors
+- reliability - 3 types of motor control - Hall sensors, optical encoder, back EMF sensing
+- CAN communication over fibre connection (not tested)
+- 36/48V powering
+- enclosure providing safe work in harsh conditions - dust, water, EMI, damage, cooling

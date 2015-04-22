@@ -1,0 +1,4 @@
+- low cost energy meters tester - simulated high load
+- built with available parts
+- different output current options
+- internal electric measures

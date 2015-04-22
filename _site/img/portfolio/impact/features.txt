@@ -1,0 +1,5 @@
+- hybrid electric car display - PLC device
+- Linux with CoDeSyS application
+- CAN communication 
+- Layout from provided graphics
+- Visual effects depending on information from CAN messages
